@@ -9,9 +9,13 @@ Creates Project Outlines and Hardware Planning For IT Installations
 
 ### Development Phases
 1: Base backend logic with hardcoded config and text-only output
+
 2: Move config options to JSON file
+
 3: Move frontend to web-based deployment
+
 4: Option to import previous project configs/save work between sessions
+
 5: User profiles/logins
 
 ### To-Do List
