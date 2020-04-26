@@ -8,9 +8,9 @@ Creates Project Outlines and Hardware Planning For IT Installations
 - Frontend: Flask (python)
 
 ### Development Phases
-1: Base backend logic with hardcoded config and text-only output
+1: Base backend logic with hardcoded components and text-only output
 
-2: Move config options to JSON file
+2: Move components options to JSON file
 
 3: Move frontend to web-based deployment
 
@@ -19,9 +19,10 @@ Creates Project Outlines and Hardware Planning For IT Installations
 5: User profiles/logins
 
 ### To-Do List
-- Everything! 
+- Update base logic for remaining components
+- Phases 2-5
 
 ### Notes
-- Considering config with database, JSON files seem more "portable"
+- Considering components with database, JSON files seem more "portable"
 - Considering Django depending on complexity, starting with Flask for simplicity
 - After phase 5, looking at login options like SAML/OAuth
