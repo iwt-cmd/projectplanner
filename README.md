@@ -4,7 +4,7 @@ Creates Project Outlines and Hardware Planning For IT Installations
 - Creates base project outline
 
 ### Architecture
-- Backend: Python w/ JSON config files
+- Backend: Python w/ JSON component files
 - Frontend: Flask (python)
 
 ### Development Phases
